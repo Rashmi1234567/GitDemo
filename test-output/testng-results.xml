@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32" started-at="2020-07-22T16:02:40Z" finished-at="2020-07-22T16:02:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="32" started-at="2020-07-22T16:02:40Z" finished-at="2020-07-22T16:02:40Z">
+      <class name="sweetymaven.sonali.AppiumTest">
+        <test-method status="PASS" signature="nativeIosApp()[pri:0, instance:sweetymaven.sonali.AppiumTest@343f4d3d]" name="nativeIosApp" duration-ms="0" started-at="2020-07-22T21:32:40Z" finished-at="2020-07-22T21:32:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeIosApp -->
+        <test-method status="PASS" signature="nativeAndroid()[pri:0, instance:sweetymaven.sonali.AppiumTest@343f4d3d]" name="nativeAndroid" duration-ms="0" started-at="2020-07-22T21:32:40Z" finished-at="2020-07-22T21:32:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAndroid -->
+      </class> <!-- sweetymaven.sonali.AppiumTest -->
+      <class name="sweetymaven.sonali.SeleniumTest">
+        <test-method status="PASS" signature="facebookweb()[pri:0, instance:sweetymaven.sonali.SeleniumTest@548e7350]" name="facebookweb" duration-ms="0" started-at="2020-07-22T21:32:40Z" finished-at="2020-07-22T21:32:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebookweb -->
+        <test-method status="PASS" signature="yahooweb()[pri:0, instance:sweetymaven.sonali.SeleniumTest@548e7350]" name="yahooweb" duration-ms="0" started-at="2020-07-22T21:32:40Z" finished-at="2020-07-22T21:32:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- yahooweb -->
+      </class> <!-- sweetymaven.sonali.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
